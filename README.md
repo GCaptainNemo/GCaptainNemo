@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GCaptainNemo
-- 👀 I’m interested in Computer Vision, 3D Lidar Processing, Machine learning aided scientific discovery, AutoML.
-- 🌱 I’m currently learning Autonomous driving, HD Map.
-- 💞️ I’m looking to collaborate on computer vision and 3D lidar applications.
+- 👀 I’m interested in AI Agent, Computer Vision, 3D Lidar Processing, Machine learning aided scientific discovery, AutoML.
+- 🌱 I’m currently learning AI Agent.
+- 💞️ I’m looking to collaborate on AI Agent, computer vision and 3D lidar applications.
 - 📫 How to reach me zy2015213@buaa.edu.cn.
 
 <!---
